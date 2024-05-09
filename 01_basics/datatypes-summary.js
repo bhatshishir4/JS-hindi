@@ -10,15 +10,7 @@
 
 //Array, Objects, Functions
 
-const heroes = ["superman", "batman", "spiderman"]
-let obj1 = {
 
-    name = Shishir
-    age = 22
+//Stack (prmitive) , Heapy (non-primitive)
 
-}
 
-const function1 = function()
-{
-    console.log("Hello world")
-}
