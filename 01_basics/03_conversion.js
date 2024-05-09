@@ -1,12 +1,21 @@
 let score = 33
-console.log(typeof score);
+//console.log(typeof score);
 
 let valueInNumber = Number(score)
-console.log(typeof valueInNumber)
-console.log(valueInNumber)
+//console.log(typeof valueInNumber)
+//console.log(valueInNumber)
 
 
 
-let isloggedin = 1
+let isLoggedIn = 0
 
-let 
+let booleanisLoggedIn = Boolean(isLoggedIn)
+//console.log(booleanisLoggedIn)
+//console.log(typeof booleanisLoggedIn)
+
+let stringLikeNumber = 4444
+console.log(typeof stringLikeNumber)
+//let stringConv = String(stringLikeNumber)
+//console.log(stringConv)
+//console.log(typeof stringConv)
+
