@@ -1,6 +1,7 @@
 // () => {}  arrow functioon syntax
 
-const addtwo(num1, num2) => {
+const addtwo = (num1, num2) => {
     return num1, num2
 }
-addtwo(5, 6)
+console.log(addtwo(5, 6))
+
