@@ -17,5 +17,12 @@ const LoggedInFromEmail = false
 // }
 // || can be used to check OR i.e. if any one condition is true, code is executed. 
 
+//Nullish Coalescing Operator ??:null undefined
 
+// let val1, val2, val3 ;
+// val1 = 5 ?? 10
+// val2 = null ?? 5
+// val3 = undefined ?? 5
+
+// console.log(val1, val2, val3)
 
