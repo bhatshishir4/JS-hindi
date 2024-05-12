@@ -26,3 +26,15 @@ const LoggedInFromEmail = false
 
 // console.log(val1, val2, val3)
 
+//Terniary Operator
+
+//condition ? true : false
+
+// const iceteaprice = 100
+
+// iceteaprice >= 80 ? console.log("yes") : console.log("false")
+
+// const NikeJordan = 4000
+
+// NikeJordan <= 3000 ? console.log("Not afffordable") : console.log("Affordable")
+
