@@ -30,5 +30,5 @@ const shoppingCart = [
 
 ]
 
-const totalprice = shoppingCart.reduce( (acc, item) => (acc + item.price ),0)
+const totalprice = shoppingCart.reduce( (acc, item) => (acc + item.price),0 )
 console.log(totalprice)
